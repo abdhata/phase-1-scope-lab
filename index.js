@@ -21,6 +21,6 @@ const leastFavoriteCustomer = 'John';
 
 // Write a function to attempt changing the value of the global constant leastFavoriteCustomer
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = 'Jane'; // This will result in an error because you cannot reassign a constant
+  leastFavoriteCustomer = 'Jane';
 }
 
